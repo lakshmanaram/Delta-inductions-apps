@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">contacts</string>
+<string name="hint">Name</string>
+<string name="addtext">NAME :   </string>
+    <string name="content">listimage</string>
+    <string name="SearchButton">SEARCH</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        <string name="title_activity_add">add</string>
+    <string name="add">ADD</string>
+        <string name="title_activity_edit">edit</string>
+</resources>

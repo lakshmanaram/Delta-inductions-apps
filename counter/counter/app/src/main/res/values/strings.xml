@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">counter</string>
+    <string name="button1">COUNT</string>
+    <string name="reset">RESET</string>
+    <string name="initial">0</string>
+    <string name="content">image</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

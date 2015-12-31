@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ultimate_tictactoe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_singlegrid_frag">singlegrid_frag</string>
+</resources>
